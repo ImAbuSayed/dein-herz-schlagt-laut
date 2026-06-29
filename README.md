@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dein Herz schlägt laut, ich spür' den Bass in meiner Brust
+> Baby, steig ein, wir jagen durch die Stadt bei Nacht
+> Keine Limits mehr, ich weiß genau, dass du es musst
+> Augen wie Diamanten, du hast mich um den Verstand gebracht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
