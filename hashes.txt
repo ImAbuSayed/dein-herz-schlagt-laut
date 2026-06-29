@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dein Herz schlägt laut
+
+This log tracks the cryptographic history and versioning for the song **Dein Herz schlägt laut** (dein-herz-schlagt-laut).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T02:46:38.611051 | `v1` | `338fb00b42f36f285b20666756cfc844a0e3051b7e079537fd7a84f48def155e` | `36093c8bd52f06c4853addc7b203c29eabe37770f3b8090ba9dc6868f42fea8c` | `2026-06-30_dein-herz-schlagt-laut-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

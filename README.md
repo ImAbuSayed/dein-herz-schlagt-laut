@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dein-herz-schlagt-laut/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Dein Herz schlägt laut](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-herz-schlagt-laut/) |
+| **Get License** | [Secure Licensing Rights for Dein Herz schlägt laut](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dein-herz-schlagt-laut/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `338fb00b42f36f285b20666756cfc844a0e3051b7e079537fd7a84f48def155e` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
